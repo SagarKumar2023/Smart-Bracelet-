@@ -1,2 +1,2 @@
 # Smart-Bracelet-
-This is me first Git Repository 
+This is my first Git Repository 
