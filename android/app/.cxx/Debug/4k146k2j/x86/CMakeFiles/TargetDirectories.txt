@@ -1,0 +1,2 @@
+C:/Sagar Kumar/Flutter_Projects/X_Fitness/android/app/.cxx/Debug/4k146k2j/x86/CMakeFiles/edit_cache.dir
+C:/Sagar Kumar/Flutter_Projects/X_Fitness/android/app/.cxx/Debug/4k146k2j/x86/CMakeFiles/rebuild_cache.dir

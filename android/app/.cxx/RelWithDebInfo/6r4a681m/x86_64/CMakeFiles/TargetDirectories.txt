@@ -1,0 +1,2 @@
+E:/StudioProjects/X_Fitness/android/app/.cxx/RelWithDebInfo/6r4a681m/x86_64/CMakeFiles/edit_cache.dir
+E:/StudioProjects/X_Fitness/android/app/.cxx/RelWithDebInfo/6r4a681m/x86_64/CMakeFiles/rebuild_cache.dir
